@@ -17,3 +17,11 @@
 ```
 
 https://unix.stackexchange.com/questions/168169/how-to-change-the-pair-of-a-changed-html-tag-in-vim
+
+# Semantic HTML
+
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+# MDN Document
+
+https://developer.mozilla.org/en-US/
