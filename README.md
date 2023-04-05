@@ -70,11 +70,11 @@ Finally, let's try out visual mode. Press a capital V (for linewise visual mode)
 This plugin is very powerful for HTML and XML editing, a niche which currently seems underfilled in Vim land. (As opposed to HTML/XML inserting, for which many plugins are available). Adding, changing, and removing pairs of tags simultaneously is a breeze.
 ```
 
-# Semantic HTML
+# Semantic HTML<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
-# MDN Document<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# MDN Document
 
 https://developer.mozilla.org/en-US/
 
