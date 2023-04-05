@@ -30,3 +30,5 @@ https://developer.mozilla.org/en-US/
 # JavaScript style guide
 
 https://github.com/tipjs/javascript-style-guide
+
+원문:https://github.com/airbnb/javascript
