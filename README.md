@@ -26,6 +26,17 @@ https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
 https://developer.mozilla.org/en-US/
 
+<hr>
+
+<br>
+
+# CSS - protips
+
+https://github.com/AllThingsSmitty/css-protips
+
+<br>
+
+<hr>
 
 # JavaScript style guide
 
