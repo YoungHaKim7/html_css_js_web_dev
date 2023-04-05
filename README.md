@@ -1,6 +1,10 @@
 # Contents
 
-- https://github.com/YoungHaKim7/html_css_js_web_dev#semantic-html
+- [semantic HTML](https://github.com/YoungHaKim7/html_css_js_web_dev#semantic-html)
+
+- [CSS](css)
+
+- [JavaScritpt](js)
 
 # Vim(Surround)
 
@@ -68,7 +72,7 @@ This plugin is very powerful for HTML and XML editing, a niche which currently s
 
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
-# MDN Document
+# MDN Document<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://developer.mozilla.org/en-US/
 
@@ -76,7 +80,7 @@ https://developer.mozilla.org/en-US/
 
 <br>
 
-# Front-End
+# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://github.com/thedaviddias/Front-End-Checklist
 
@@ -86,7 +90,7 @@ https://github.com/thedaviddias/Front-End-Checklist
 
 <br>
 
-# CSS - protips
+# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://github.com/AllThingsSmitty/css-protips
 
