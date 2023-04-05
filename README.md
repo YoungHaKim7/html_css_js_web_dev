@@ -82,7 +82,7 @@ https://developer.mozilla.org/en-US/
 
 <br>
 
-# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="frontend" width="36px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="frontend" width="36px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/thedaviddias/Front-End-Checklist
 
@@ -92,7 +92,7 @@ https://github.com/thedaviddias/Front-End-Checklist
 
 <br>
 
-# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/AllThingsSmitty/css-protips
 
@@ -100,7 +100,7 @@ https://github.com/AllThingsSmitty/css-protips
 
 <hr>
 
-# JavaScript style guide<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# JavaScript style guide<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/tipjs/javascript-style-guide
 
