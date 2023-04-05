@@ -70,6 +70,22 @@ Finally, let's try out visual mode. Press a capital V (for linewise visual mode)
 This plugin is very powerful for HTML and XML editing, a niche which currently seems underfilled in Vim land. (As opposed to HTML/XML inserting, for which many plugins are available). Adding, changing, and removing pairs of tags simultaneously is a breeze.
 ```
 
+# NeoVim-Surround
+
+https://github.com/kylechui/nvim-surround
+
+```
+    Old text                    Command         New text
+--------------------------------------------------------------------------------
+    surr*ound_words             ysiw)           (surround_words)
+    *make strings               ys$"            "make strings"
+    [delete ar*ound me!]        ds]             delete around me!
+    remove <b>HTML t*ags</b>    dst             remove HTML tags
+    'change quot*es'            cs'"            "change quotes"
+    <b>or tag* types</b>        csth1<CR>       <h1>or tag types</h1>
+    delete(functi*on calls)     dsf             function calls
+```
+
 <br>
 
 <hr>
