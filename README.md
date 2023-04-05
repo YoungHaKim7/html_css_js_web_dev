@@ -25,3 +25,8 @@ https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 # MDN Document
 
 https://developer.mozilla.org/en-US/
+
+
+# JavaScript style guide
+
+https://github.com/tipjs/javascript-style-guide
