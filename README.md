@@ -1,10 +1,12 @@
 # Contents
 
+- [FrontEnd guide](https://github.com/YoungHaKim7/html_css_js_web_dev#front-end)
+
 - [semantic HTML](https://github.com/YoungHaKim7/html_css_js_web_dev#semantic-html)
 
-- [CSS](css)
+- [CSS](https://github.com/YoungHaKim7/html_css_js_web_dev#css---protips)
 
-- [JavaScritpt](js)
+- [JavaScritpt](https://github.com/YoungHaKim7/html_css_js_web_dev#javascript-style-guide)
 
 # Vim(Surround)
 
