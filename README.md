@@ -30,6 +30,16 @@ https://developer.mozilla.org/en-US/
 
 <br>
 
+# Front-End
+
+https://github.com/thedaviddias/Front-End-Checklist
+
+<br>
+
+<hr>
+
+<br>
+
 # CSS - protips
 
 https://github.com/AllThingsSmitty/css-protips
