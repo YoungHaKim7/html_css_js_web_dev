@@ -82,7 +82,7 @@ https://developer.mozilla.org/en-US/
 
 <br>
 
-# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="frontend" width="26px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="frontend" width="36px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://github.com/thedaviddias/Front-End-Checklist
 
