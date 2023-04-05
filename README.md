@@ -100,7 +100,7 @@ https://github.com/AllThingsSmitty/css-protips
 
 <hr>
 
-# JavaScript style guide
+# JavaScript style guide<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://github.com/tipjs/javascript-style-guide
 
