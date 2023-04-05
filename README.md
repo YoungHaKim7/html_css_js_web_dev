@@ -92,7 +92,7 @@ https://github.com/thedaviddias/Front-End-Checklist
 
 <br>
 
-# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="rustmascot" width="26px" src="https://user-images.githubusercontent.com/67513038/213403213-1b1b3efc-ce53-4825-9dfc-e9bf2956a7f4.svg" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
+# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /></a><a href="https://github.com/YoungHaKim7/YouTubeContents_GlobalYoung#contents">[🔝]</a>
 
 https://github.com/AllThingsSmitty/css-protips
 
