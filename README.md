@@ -11,7 +11,7 @@
 # Vim(Surround)
 
 
-- 교체 change
+- 교체 change ```cst```
 
 ```
  in normal mode, type cst<div> (change surrounding tag to <div>).
@@ -28,7 +28,7 @@
 ```
 <hr>
 
-- dst태그 삭제delete
+- 태그 삭제delete ```dst```
 
 ```
 <h1>test<h1>
@@ -38,7 +38,7 @@ dst
 
 <hr>
 
-- ysiw&lt;h1&gt;  Add 태그 추가 +
+- ysiw&lt;h1&gt;  Add 태그 추가 +  ```ysiw&lt;h1&gt; ```
 
 ```
 test
