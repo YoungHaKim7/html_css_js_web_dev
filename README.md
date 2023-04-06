@@ -149,6 +149,8 @@ background: unset;
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
+![boxinline](https://user-images.githubusercontent.com/67513038/230394761-65e3e0de-d323-434a-ae87-a9682ff246ee.jpg)
+
 <br>
 
 <hr>
