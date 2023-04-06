@@ -38,6 +38,18 @@ dst
 
 <hr>
 
+- ysiw  / yss<h1>
+
+```
+test
+
+ysiw<h1>
+
+<h1>test</h1>
+```
+
+<hr>
+
 https://unix.stackexchange.com/questions/168169/how-to-change-the-pair-of-a-changed-html-tag-in-vim
 
 https://github.com/tpope/vim-surround
