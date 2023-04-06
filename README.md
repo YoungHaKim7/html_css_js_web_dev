@@ -38,7 +38,7 @@ dst
 
 <hr>
 
-- ysiw&lt;h1&gt;  Add 태그 추가 +  ```ysiw&lt;h1&gt; ```
+- ysiw&lt;h1&gt;  Add 태그 추가 +  ```ysiw<h1>```
 
 ```
 test
@@ -48,7 +48,7 @@ ysiw<h1>
 <h1>test</h1>
 ```
 
-- yss&lt;h1&gt; Add 태그 추가 +
+- yss&lt;h1&gt; Add 태그 추가 +```yss<h1>```
 
 ```
 test
