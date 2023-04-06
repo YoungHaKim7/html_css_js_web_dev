@@ -196,3 +196,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background
 https://github.com/tipjs/javascript-style-guide
 
 원문:https://github.com/airbnb/javascript
+
+# Angle bracket (<) without triggering html code [duplicate]
+
+https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-html-code
