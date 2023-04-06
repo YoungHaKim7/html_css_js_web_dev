@@ -11,7 +11,7 @@
 # Vim(Surround)
 
 
-- 교체 change ```cst```
+- 교체 change ```cst<h1>```
 
 ```
  in normal mode, type cst<div> (change surrounding tag to <div>).
