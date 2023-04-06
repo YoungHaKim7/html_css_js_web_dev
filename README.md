@@ -26,6 +26,17 @@
 
 변신 !!!
 ```
+<hr>
+
+- dst태그 삭제delete
+
+```
+<h1>test<h1>
+
+dst
+```
+
+<hr>
 
 https://unix.stackexchange.com/questions/168169/how-to-change-the-pair-of-a-changed-html-tag-in-vim
 
