@@ -38,12 +38,22 @@ dst
 
 <hr>
 
-- ysiw  / yss&lt;h1&gt;
+- ysiw&lt;h1&gt;  
 
 ```
 test
 
 ysiw<h1>
+
+<h1>test</h1>
+```
+
+- yss&lt;h1&gt;
+
+```
+test
+
+yss<h1>
 
 <h1>test</h1>
 ```
