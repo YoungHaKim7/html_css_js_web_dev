@@ -185,7 +185,12 @@ background: unset;
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
+- boxinline
 ![boxinline](https://user-images.githubusercontent.com/67513038/230394761-65e3e0de-d323-434a-ae87-a9682ff246ee.jpg)
+
+- main axis vs cross axis(Felxbox)
+![axes](https://user-images.githubusercontent.com/67513038/230603102-9ea38e53-b7e1-4fec-a395-310358d225b8.png)
+
 
 <br>
 
