@@ -137,8 +137,9 @@ https://github.com/kylechui/nvim-surround
 
 # emmet
 
-[emmet](https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif)
+[emmet]()
 
+<a href="https://docs.helix-editor.com/usage.html"><img align="left" alt="helix" width="512px" src="https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif"></a>
 
 - settings.JSON
 
