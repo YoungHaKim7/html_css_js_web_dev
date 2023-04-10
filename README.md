@@ -130,6 +130,8 @@ https://github.com/kylechui/nvim-surround
 
 # Emmet in Visual Studio Code
 
+- https://code.visualstudio.com/docs/editor/emmet
+
 ```
 (div.status-bar__column>span)*3 
 ```
