@@ -137,8 +137,7 @@ https://github.com/kylechui/nvim-surround
 
 # emmet
 
-<img href="https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif" />
-
+<img src="/assets/docs/editor/emmet/emmet.gif" alt="Emmet in suggestion/auto-completion list" loading="lazy">
 
 settings.JSON
 ```
