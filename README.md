@@ -126,6 +126,26 @@ https://github.com/kylechui/nvim-surround
 
 <hr>
 
+# Emmet in Visual Studio Code
+
+```
+(div.status-bar__column>span)*3 
+
+
+
+```
+
+[emmet](https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif)
+
+settings.JSON
+```
+"emmet.triggerExpansionOnTab": true
+```
+
+<br>
+
+<hr>
+
 # Semantic HTML<a href="https://github.com/rust-ml/linfa"><img align="left" alt="html" width="26px" src="https://user-images.githubusercontent.com/67513038/229953435-3d20ff2f-672e-4baa-a13b-da2b74cbbe67.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
