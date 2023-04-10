@@ -230,7 +230,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
 ## BEM
 
-- The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
+- The <em>Block, Element, Modifier</em> methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
 
   - https://css-tricks.com/bem-101/
 
