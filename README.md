@@ -145,6 +145,11 @@ https://github.com/kylechui/nvim-surround
 
 <br>
 
+```
+ul>li*3>span.hello$
+
+```
+
 - settings.JSON
 
 ```
