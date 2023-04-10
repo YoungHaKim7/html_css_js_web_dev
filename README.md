@@ -132,9 +132,10 @@ https://github.com/kylechui/nvim-surround
 
 ```
 (div.status-bar__column>span)*3 
+```
 
-
-
+```
+ul>li*3>span.hello$
 ```
 
 # emmet
@@ -147,10 +148,7 @@ https://github.com/kylechui/nvim-surround
 
 <br>
 
-```
-ul>li*3>span.hello$
 
-```
 
 - settings.JSON
 
