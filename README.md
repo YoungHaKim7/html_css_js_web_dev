@@ -139,7 +139,7 @@ https://github.com/kylechui/nvim-surround
 
 
 
-<a href="https://code.visualstudio.com/docs/editor/emmet"><img align="left" alt="emmet" width="730px" src="https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif"></a>
+<a href="https://code.visualstudio.com/docs/editor/emmet"><img align="left" alt="emmet" width="930px" src="https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif"></a>
 
 <br>
 
