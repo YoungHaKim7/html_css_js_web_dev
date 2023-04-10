@@ -135,7 +135,10 @@ https://github.com/kylechui/nvim-surround
 
 ```
 
-[emmet](https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif)
+# emmet
+
+<img href="https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif" />
+
 
 settings.JSON
 ```
