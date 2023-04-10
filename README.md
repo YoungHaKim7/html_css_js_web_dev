@@ -137,9 +137,11 @@ https://github.com/kylechui/nvim-surround
 
 # emmet
 
-<img src="/assets/docs/editor/emmet/emmet.gif" alt="Emmet in suggestion/auto-completion list" loading="lazy">
+<img src="/assets/docs/editor/emmet/emmet.gif" />
 
-settings.JSON
+
+- settings.JSON
+
 ```
 "emmet.triggerExpansionOnTab": true
 ```
