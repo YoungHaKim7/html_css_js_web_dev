@@ -228,6 +228,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background
 - main axis vs cross axis(Flexbox)
 ![axes](https://user-images.githubusercontent.com/67513038/230603102-9ea38e53-b7e1-4fec-a395-310358d225b8.png)
 
+## BEM
+
+- The Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
+
+  - https://css-tricks.com/bem-101/
+
+  - https://getbem.com/introduction/
+
+출처: https://nomadcoders.co/  
 
 <br>
 
