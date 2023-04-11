@@ -1,6 +1,6 @@
 # Contents
 
-- [VScode_Emmet](https://github.com/YoungHaKim7/html_css_js_web_dev#emmet)
+- [VScode_Emmet](https://github.com/YoungHaKim7/html_css_js_web_dev#emmet-in-visual-studio-code)
 
 - [FrontEnd guide](https://github.com/YoungHaKim7/html_css_js_web_dev#front-end)
 
