@@ -19,4 +19,8 @@ https://youtu.be/SBmSRK3feww
 
 https://youtu.be/G3e-cpL7ofc
 
+# Tutorials | SuperSimpleDev
+
+https://www.youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6
+
 <hr>
