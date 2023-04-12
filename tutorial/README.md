@@ -1,10 +1,14 @@
-# Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)
+# Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) | freeCodeCamp.org
+
 
 https://youtu.be/MsnQ5uepIaE
 
-# Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)
+# Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) | freeCodeCamp.org
+
 
 https://youtu.be/zJSY8tbf_ys
+
+<hr>
 
 <hr>
 
