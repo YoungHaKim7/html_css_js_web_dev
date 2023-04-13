@@ -277,3 +277,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 - Flex Box Froggy (1-24) Solved
 
   https://youtu.be/g0G0BiYm3lE
+
+# 다른 사람의 css 완전 정리
+
+http://ccomrung-programming.tistory.com/38
