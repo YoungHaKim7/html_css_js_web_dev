@@ -273,3 +273,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 - CSS Diner - Full Game - All Levels (1-32) - Explanation
 
   https://youtu.be/ff5-CQuDoow
+  
+- Flex Box Froggy (1-24) Solved
+
+  https://youtu.be/g0G0BiYm3lE
