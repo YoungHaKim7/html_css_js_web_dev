@@ -269,3 +269,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 - Frontend 자료 정리한 동기(총 정리 잘됨. 웹 구동원리까지 👍😍)
 
   https://frosted-manchego-ca2.notion.site/45302f0dea7c4a7ab54b23670f5ca832
+  
+- CSS Diner - Full Game - All Levels (1-32) - Explanation
+
+  https://youtu.be/ff5-CQuDoow
