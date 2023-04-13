@@ -258,12 +258,12 @@ https://github.com/tipjs/javascript-style-guide
 https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-html-code
 
 
-# Nomad Coders 코코아 클론 10주 챌린지(4기) 동기들자료 모음
+# Nomad Coders 코코아 클론 노마드 🚀 10주 스터디(4기)-웹 프론트엔드 개발자 스터디- 동기들자료 모음
 
 - BEM정리 잘된 사이트
 
-https://naradesign.github.io/bem-by-example.html
+  https://naradesign.github.io/bem-by-example.html
 
 - Frontend 자료 정리한 동기
 
-https://frosted-manchego-ca2.notion.site/45302f0dea7c4a7ab54b23670f5ca832
+  https://frosted-manchego-ca2.notion.site/45302f0dea7c4a7ab54b23670f5ca832
