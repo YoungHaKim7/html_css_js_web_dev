@@ -280,4 +280,10 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 
 # 다른 사람의 css 완전 정리
 
-http://ccomrung-programming.tistory.com/38
+- part1
+
+  http://ccomrung-programming.tistory.com/37
+
+- prat2
+
+  http://ccomrung-programming.tistory.com/38
