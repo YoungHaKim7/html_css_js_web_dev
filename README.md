@@ -294,7 +294,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 
   https://youtu.be/g0G0BiYm3lE
 
-# 다른 사람의 [CSS] MDN 정리1
+# 다른 사람의 &gt;CSS&am; MDN 정리1
 
 - [CSS] MDN 정리 part1
 
