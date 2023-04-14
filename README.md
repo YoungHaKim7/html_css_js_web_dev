@@ -12,6 +12,8 @@
 
 - [코코아 클론 노마드 🚀 10주 스터디(4기)-웹 프론트엔드 개발자 스터디](https://github.com/YoungHaKim7/html_css_js_web_dev/blob/main/README.md#nomad-coders-%EC%BD%94%EC%BD%94%EC%95%84-%ED%81%B4%EB%A1%A0-%EB%85%B8%EB%A7%88%EB%93%9C--10%EC%A3%BC-%EC%8A%A4%ED%84%B0%EB%94%944%EA%B8%B0-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%84%B0%EB%94%94--%EB%8F%99%EA%B8%B0%EB%93%A4%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)
 
+- test(te)
+
 # Vim(Surround)
 
 
