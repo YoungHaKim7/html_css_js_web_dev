@@ -323,4 +323,4 @@ https://fonts.google.com/
 
 # fontAwesome
 
-https://fontawesome.com/search?q=play&o=r&m=free
+https://fontawesome.com/search?o=r&m=free
