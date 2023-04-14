@@ -12,7 +12,7 @@
 
 - [코코아 클론 노마드 🚀 10주 스터디(4기)-웹 프론트엔드 개발자 스터디](https://github.com/YoungHaKim7/html_css_js_web_dev/blob/main/README.md#nomad-coders-%EC%BD%94%EC%BD%94%EC%95%84-%ED%81%B4%EB%A1%A0-%EB%85%B8%EB%A7%88%EB%93%9C--10%EC%A3%BC-%EC%8A%A4%ED%84%B0%EB%94%944%EA%B8%B0-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%84%B0%EB%94%94--%EB%8F%99%EA%B8%B0%EB%93%A4%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)
 
-- test(te)
+- [CSS 작업시 필요 사이트 모음(AwesomeFont, GoogleFont, etc](https://github.com/YoungHaKim7/html_css_js_web_dev#css-%EC%9E%91%EC%97%85%EC%8B%9C-%ED%95%84%EC%88%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)
 
 # Vim(Surround)
 
@@ -310,7 +310,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
   
   <hr>
   
-# CSS 작업시 필수 사이트 모음
+# CSS 작업시 필수 사이트 모음<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 # Audio CSS
 
