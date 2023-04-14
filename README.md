@@ -303,3 +303,22 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 - [CSS] MDN 정리 prat2
 
   http://ccomrung-programming.tistory.com/38
+  
+  <br>
+  
+  <hr>
+  
+# CSS 작업시 필수 사이트 모음
+
+# Audio CSS
+
+https://blog.shahednasser.com/how-to-style-an-audio-element/
+
+# Google Font
+
+https://fonts.google.com/
+
+
+# fontAwesome
+
+https://fontawesome.com/search?q=play&o=r&m=free
