@@ -15,3 +15,8 @@ npm run dev
 Server running at http://localhost:1234
 ✨ Built in 344ms
 ```
+
+# Step-by-step guide
+
+https://www.chartjs.org/docs/latest/getting-started/usage.html
+
