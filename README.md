@@ -14,6 +14,8 @@
 
 - [CSS 작업시 필요 사이트 모음(AwesomeFont, GoogleFont, etc](https://github.com/YoungHaKim7/html_css_js_web_dev#css-%EC%9E%91%EC%97%85%EC%8B%9C-%ED%95%84%EC%88%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)
 
+- [Publishing your website](https://github.com/YoungHaKim7/html_css_js_web_dev#css-%EC%9E%91%EC%97%85%EC%8B%9C-%ED%95%84%EC%88%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)
+
 # Vim(Surround)
 
 
@@ -324,3 +326,13 @@ https://fonts.google.com/
 # fontAwesome
 
 https://fontawesome.com/search?o=r&m=free
+
+# 배포 관련 Publishing your Website
+
+- Dev. Mozilla
+
+  - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
+  
+- How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io
+
+  - https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/
