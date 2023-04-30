@@ -174,7 +174,7 @@ ul>li*3>span.hello$
 
 <hr>
 
-# Semantic HTML<a href="https://github.com/rust-ml/linfa"><img align="left" alt="html" width="26px" src="https://user-images.githubusercontent.com/67513038/229953435-3d20ff2f-672e-4baa-a13b-da2b74cbbe67.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# Semantic HTML<img align="left" alt="html" width="26px" src="https://user-images.githubusercontent.com/67513038/229953435-3d20ff2f-672e-4baa-a13b-da2b74cbbe67.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
@@ -190,7 +190,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 <br>
 
-# Front-End<a href="https://github.com/rust-ml/linfa"><img align="left" alt="frontend" width="36px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# Front-End<img align="left" alt="frontend" width="36px" src="https://user-images.githubusercontent.com/67513038/146179458-5e587820-a037-41ee-bf02-2366b3e5aad7.jpg" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/thedaviddias/Front-End-Checklist
 
@@ -200,7 +200,7 @@ https://github.com/thedaviddias/Front-End-Checklist
 
 <br>
 
-# CSS - protips<a href="https://github.com/rust-ml/linfa"><img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# CSS - protips<img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/AllThingsSmitty/css-protips
 
@@ -269,7 +269,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background
 
 <hr>
 
-# JavaScript style guide<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# JavaScript style guide<img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 https://github.com/tipjs/javascript-style-guide
 
@@ -280,7 +280,7 @@ https://github.com/tipjs/javascript-style-guide
 https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-html-code
 
 
-# Nomad Coders 코코아 클론 노마드 🚀 10주 스터디(4기)-웹 프론트엔드 개발자 스터디- 동기들자료 모음<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# Nomad Coders 코코아 클론 노마드 🚀 10주 스터디(4기)-웹 프론트엔드 개발자 스터디- 동기들자료 모음<img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/67513038/215448983-97327d43-4c12-4e83-b529-e994d7614a21.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 - BEM정리 잘된 사이트
 
@@ -312,7 +312,7 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
   
   <hr>
   
-# CSS 작업시 필수 사이트 모음<a href="https://github.com/rust-ml/linfa"><a href="https://github.com/rust-ml/linfa"><img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" />>[🔝]</a>
+# CSS 작업시 필수 사이트 모음<img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 # Audio CSS
 
@@ -327,7 +327,7 @@ https://fonts.google.com/
 
 https://fontawesome.com/search?o=r&m=free
 
-# 배포 관련 Publishing your Website<a href="https://github.com/rust-ml/linfa"><img align="left" alt="js" width="26px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive-1.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
+# 배포 관련 Publishing your Website<img align="left" alt="js" width="26px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive-1.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 - Dev. Mozilla
 
