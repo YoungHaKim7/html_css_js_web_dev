@@ -16,6 +16,8 @@
 
 - [Publishing your website](https://github.com/YoungHaKim7/html_css_js_web_dev#%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A0%A8-publishing-your-website)
 
+- ES6의 정석(ES6, ES7, ES8) 다음 유료 강의 들을 예정 https://nomadcoders.co/es6-once-and-for-all
+
 # Vim(Surround)
 
 
