@@ -24,11 +24,11 @@
   
   - 바닐라JS(무료) https://nomadcoders.co/javascript-for-beginners
 
-  - CSS Layout https://nomadcoders.co/css-layout-masterclass
+  - CSS Layout마스터 클래스SCSS, Flexbox, CSS Grid https://nomadcoders.co/css-layout-masterclass
 
 - 중급
 
-  - ES6의 정석(ES6, ES7, ES8) 다음 유료 강의 들을 예정 https://nomadcoders.co/es6-once-and-for-all
+  - ES6의 정석(ES6, ES7, ES8) https://nomadcoders.co/es6-once-and-for-all
 
 
 
