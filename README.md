@@ -360,6 +360,8 @@ https://fontawesome.com/search?o=r&m=free
 
   - https://community.chocolatey.org/packages/mongodb-shell
 
+  - Shell Command https://www.mongodb.com/docs/mongodb-shell/reference/access-mdb-shell-help/
+
 
 # 배포 관련 Publishing your Website<img align="left" alt="js" width="26px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive-1.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
