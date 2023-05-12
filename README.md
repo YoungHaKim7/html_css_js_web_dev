@@ -28,6 +28,8 @@
 
   - CSS Layout마스터 클래스SCSS, Flexbox, CSS Grid https://nomadcoders.co/css-layout-masterclass
 
+  - [풀스택] 유튜브 클론코딩(유튜브 백엔드 + 프런트엔드 + 배포) https://nomadcoders.co/wetube
+
 - 중급
 
   - ES6의 정석(ES6, ES7, ES8) https://nomadcoders.co/es6-once-and-for-all
