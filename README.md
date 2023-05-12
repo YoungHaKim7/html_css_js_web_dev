@@ -354,6 +354,11 @@ https://fontawesome.com/search?o=r&m=free
 
 # MongoDB (Windows , Choco)<img align="left" alt="js" width="26px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive-1.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
+
+- MongoDB(These documents provide instructions to install MongoDB Community Edition.)무료버젼
+
+  - https://www.mongodb.com/docs/manual/administration/install-community/
+
 - MongDB(6.3.1 ver)C:\Program Files\MongoDB\Server\6.3
 
   - https://community.chocolatey.org/packages/mongodb/6.3.1
