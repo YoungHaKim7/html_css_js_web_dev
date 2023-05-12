@@ -14,6 +14,8 @@
 
 - [CSS 작업시 필요 사이트 모음(AwesomeFont, GoogleFont, etc](https://github.com/YoungHaKim7/html_css_js_web_dev#css-%EC%9E%91%EC%97%85%EC%8B%9C-%ED%95%84%EC%88%98-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C)
 
+- [MongoDB & Mongosh](https://github.com/YoungHaKim7/html_css_js_web_dev#mongodb-windows--choco)
+
 - [Publishing your website](https://github.com/YoungHaKim7/html_css_js_web_dev#%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A0%A8-publishing-your-website)
 
 # 내가 들은 유료($) 코스
