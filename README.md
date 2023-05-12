@@ -352,7 +352,7 @@ https://fontawesome.com/search?o=r&m=free
 
 # MongoDB (Windows , Choco)
 
-- MongDB(6.3.1 ver)
+- MongDB(6.3.1 ver)C:\Program Files\MongoDB\Server\6.3
 
   - https://community.chocolatey.org/packages/mongodb/6.3.1
 
