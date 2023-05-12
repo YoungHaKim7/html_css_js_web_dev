@@ -352,7 +352,7 @@ https://fontawesome.com/search?o=r&m=free
 - https://www.npmjs.com/package/yahoo-stock-api
 
 
-# MongoDB (Windows , Choco)
+# MongoDB (Windows , Choco)<img align="left" alt="js" width="26px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/01/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive-1.png" /></a><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
 - MongDB(6.3.1 ver)C:\Program Files\MongoDB\Server\6.3
 
