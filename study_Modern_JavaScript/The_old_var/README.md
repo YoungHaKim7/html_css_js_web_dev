@@ -1,3 +1,7 @@
+# marp doc 
+
+https://marpit.marp.app/theme-css?id=import-theme-rule
+
 # The old "var"
 
 https://javascript.info/var
