@@ -31,7 +31,7 @@ int main () {
 
 ---
 
-# Side 2
+# Side 2(C Lang)
 
 ![imagetest](https://poiemaweb.com/img/int_num.png)
 <style>
@@ -59,7 +59,8 @@ int main(void) {
 # Side 3 - C언어 
 
 - 선언과 할당  메모리 주소가 같다.
-- declare == allocation // address 가 같다.
+
+  - declare == allocation // address 가 같다.
 
 ```c
 #include <stdio.h>
@@ -74,9 +75,28 @@ int main () {
 
 ```
 
+
 ---
 
-# Side 4 (JavaScript)
+
+# Side 4 (C언어)
+
+- Result
+
+```bash
+
+$ clang main.c  
+
+$ ./a.out
+
+The address of x of is : 0x16af42f88
+The address of x of is : 0x16af42f88
+
+```
+
+---
+
+# Side 5 (JavaScript)
 
 - var = x ==! x = 10 주소가 다르다. 대박 사건!
 
@@ -95,7 +115,7 @@ console.log(x);
 
 ---
 
-# Side 5 (JavaScript)
+# Side 6 (JavaScript)
 
 ```
 var = x;  // defined
@@ -109,9 +129,30 @@ var = x;  // defined
 const x = 10;
 ```
 
+![var](https://poiemaweb.com/img/var-lifecycle.png)
+
+
+<style>
+    img {
+        background: white;
+        width: 650px
+
+    }
+</style>
+
+
 ---
 
-# Side 6 (JavaScript)
+# Side 7 (JavaScript)
+
+- javascript declare & allocation 개념 완전 다르다. 외워야한다.!!
+
+
+![Screenshot 2023-05-14 at 5 58 57 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/508d83ca-9cd9-4de0-810b-b75213bf0a71)
+
+---
+
+# Side 8 (JavaScript)
 
 - var 의 문제점
 
