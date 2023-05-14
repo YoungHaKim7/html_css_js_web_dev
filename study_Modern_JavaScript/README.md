@@ -24,7 +24,7 @@ https://youtube.com/playlist?list=PLkNVwwEe58DjmO5kTUkfm-8NEDUKG2No5
     - https://developer.mozilla.org/en-US/docs/Glossary/Primitive
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined 
 
-- 할당 allocation 하면 새로운 주소값 할당
+- 할당 allocation 하면 새로운 주소값 할당 (allocation은 Runtime에서 실행됨)
 
 ```javascript
 function test(t) {
