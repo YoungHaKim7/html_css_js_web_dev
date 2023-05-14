@@ -39,7 +39,7 @@ https://poiemaweb.com/
     </tr>
     <tr align="center">
         <td>JavaScript<br>Declare(변수 선언)<br>Allocation은 Runtime때</td>
-        <td>Compiled 에 대부분 다 해결<br>일부 Polymorphism은 Runtime때</td>
+        <td>Compile Time에 대부분 다 해결<br>일부 Polymorphism은 Runtime때</td>
     </tr>
 </table>
 
