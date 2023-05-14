@@ -45,3 +45,8 @@ x = 10; // allocation
 # Hoising 개념 잡기
 
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+
+# 5.29 Array_자바스크립트 배열은 배열이 아니다
+
+https://poiemaweb.com/js-array-is-not-arrray?fbclid=IwAR2BbwtwAsunP-vXZCIT9smB4eJEMfRRg0h_g3trK192omvaqV0ykGyWml4&mibextid=Zxz2cZ
