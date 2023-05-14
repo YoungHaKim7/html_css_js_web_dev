@@ -55,7 +55,9 @@ https://poiemaweb.com/js-array-is-not-arrray?fbclid=IwAR2BbwtwAsunP-vXZCIT9smB4e
 
 ```mermaid
 flowchart TD
-    A[Var foo<br>변수 선언_declare_] -->|0x00000000| C(<strong><em>undefined</em></strong><br>_Primative Type_)
-    B[foo = 10<br>값의 할당Allocation] -->|0x000000F2| D{80}
+    A[Var foo<br>변수 선언_declare_] -->|0x0000FFFF| C(<strong><em>undefined</em></strong><br>_Primative Type_)
+    B[foo = 10<br>값의 할당Allocation] -->|0x0000FFF2| D{80}
 
 ```
+
+https://felixgerschau.com/javascript-memory-management/
