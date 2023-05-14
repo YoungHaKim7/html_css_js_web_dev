@@ -12,7 +12,11 @@ https://poiemaweb.com/
     <td colspan="2" align="center">Interpreter  VS.   Compiled</td>
     </tr>
     <tr align="center">
-        <td>JavaScript</td>
+        <td>인터프리터 언어<br>(Interpreter Language</td>
+        <td>컴파일 언어<br>(Compiled Language)</td>
+    </tr>
+    <tr align="center">
+        <td>JavaScript<br>Python</td>
         <td> C, C++ </td>
     </tr>
     <tr align="center">
