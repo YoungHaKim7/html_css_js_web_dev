@@ -152,8 +152,19 @@ const x = 10;
 
 ---
 
-# Side 8 (JavaScript)
+# Side 8 인터프리터 언어 (JavaScript)
+
+- 인터프리터 언어(Interpreter Language) vs 컴파일 언어(Compiled Language)
+
+Interpreter  |   Compiled
+JavaScript   |   C, C++ 
+
+- JavaScript 변수 선언 declare (Interpreter 라 그런가 아주 특이하다)
+  - RunTime 에서 변수 할당됨Alocation
+
+---
+
+# Side 9  (JavaScript)
 
 - var 의 문제점
-
 
