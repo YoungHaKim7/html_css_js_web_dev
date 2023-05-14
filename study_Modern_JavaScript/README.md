@@ -50,3 +50,12 @@ https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 # 5.29 Array_자바스크립트 배열은 배열이 아니다
 
 https://poiemaweb.com/js-array-is-not-arrray?fbclid=IwAR2BbwtwAsunP-vXZCIT9smB4eJEMfRRg0h_g3trK192omvaqV0ykGyWml4&mibextid=Zxz2cZ
+
+# JavaScript는 선언 할당 개념이 완전히 틀리다. 주의 !! Declare & allocation
+
+```mermaid
+flowchart TD
+    A[Var foo<br>변수 선언_declare_] -->|0x00000000| C(<strong><em>undefined</em></strong><br>_Primative Type_)
+    B[foo = 10<br>값의 할당Allocation] -->|0x000000F2| D{80}
+
+```
