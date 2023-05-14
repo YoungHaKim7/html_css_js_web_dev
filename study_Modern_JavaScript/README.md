@@ -2,6 +2,26 @@
 
 https://poiemaweb.com/
 
+
+# 인터프리터 언어 (JavaScript)
+
+- 인터프리터 언어(Interpreter Language) vs 컴파일 언어(Compiled Language)
+
+<table border="1">
+    <tr>
+    <td colspan="2" align="center">Interpreter  VS.   Compiled</td>
+    </tr>
+    <tr align="center">
+        <td>JavaScript</td>
+        <td> C, C++ </td>
+    </tr>
+    <tr align="center">
+        <td>JavaScript<br>Declare(변수값 선언)<br>Allocation은 Runtime때</td>
+        <td>Compiled 에 대부분 다 해결<br>일부 Polymorphism은 Runtime때</td>
+    </tr>
+</table>
+
+
 # Marpit(ppt ) marp tutorial - Never use PowerPoint again
 
 https://youtu.be/EzQ-p41wNEE
