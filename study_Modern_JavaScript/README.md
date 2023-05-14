@@ -11,3 +11,7 @@ https://youtu.be/EzQ-p41wNEE
 https://marpit.marp.app/
 
 https://github.com/YoungHaKim7/marp_project
+
+# 모던 자바스크립트 저자 유튜브 강의 변수 시리즈
+
+https://youtube.com/playlist?list=PLkNVwwEe58DjmO5kTUkfm-8NEDUKG2No5
