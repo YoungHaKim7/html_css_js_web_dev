@@ -25,3 +25,19 @@ https://youtube.com/playlist?list=PLkNVwwEe58DjmO5kTUkfm-8NEDUKG2No5
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined 
 
 - 할당 allocation 하면 새로운 주소값 할당
+
+```javascript
+function test(t) {
+  if (t === undefined) {
+    return 'Undefined value!';
+  }
+  return t;
+}
+
+let x; // Delare
+
+console.log(test(x)); 
+// Expected output: "Undefined value!"
+
+x = 10; // allocation
+```
