@@ -16,6 +16,8 @@
 
 - [MongoDB & Mongosh](https://github.com/YoungHaKim7/html_css_js_web_dev#mongodb-windows--choco)
 
+- [route와 controller 그림으로 이해하기](https://github.com/YoungHaKim7/html_css_js_web_dev#route%EC%99%80-express-nodejs-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C)
+
 - [Publishing your website](https://github.com/YoungHaKim7/html_css_js_web_dev#%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A0%A8-publishing-your-website)
 
 # 내가 들은 유료($) 코스
