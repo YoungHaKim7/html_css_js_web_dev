@@ -41,3 +41,7 @@ console.log(test(x));
 
 x = 10; // allocation
 ```
+
+# Hoising 개념 잡기
+
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
