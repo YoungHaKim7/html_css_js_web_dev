@@ -36,7 +36,9 @@
 
   - ES6의 정석(ES6, ES7, ES8) https://nomadcoders.co/es6-once-and-for-all
 
+# HTTP response status codes
 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 # Vim(Surround)
 
