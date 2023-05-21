@@ -258,3 +258,52 @@ hello
 hello
 3
 ```
+
+---
+
+# JavaScript에서 호이스팅은 선언 전에 함수나 변수를 사용할 수 있는 동작입니다. 예를 들어,
+- Hoisting
+Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration. For example,
+
+```
+// using test before declaring
+console.log(test);   // undefined
+var test;
+```
+
+---
+
+# 코딩에서 변수 사용 순서
+
+1. Declare & Allocation
+
+2. Initial value
+
+3. Use
+
+---
+
+# let Doesn't Allow Hoisting
+
+https://www.programiz.com/javascript/let-vs-var
+
+- The variables declared with var are hoisted to the top of the scope of the program. For example,
+
+---
+
+# var 는 error 가 나지 않는다.   욕 xxx
+
+```javascript
+console.log(a);
+var a; // undefined (not an error)
+```
+
+
+# let 맘이 편해지고 좋아진다.
+
+- The keyword let does not allow hoisting. For example,
+
+```javascript
+console.log(a);
+let a; // Uncaught ReferenceError: a is not defined
+```
