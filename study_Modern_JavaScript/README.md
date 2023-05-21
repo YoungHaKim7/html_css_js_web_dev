@@ -96,3 +96,8 @@ flowchart TD
 https://felixgerschau.com/javascript-memory-management/
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+
+
+# Falsy
+
+https://developer.mozilla.org/en-US/docs/Glossary/Falsy
