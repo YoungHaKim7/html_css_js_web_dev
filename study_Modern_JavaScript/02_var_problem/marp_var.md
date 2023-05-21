@@ -38,7 +38,7 @@ https://poiemaweb.com/js-syntax-basics
 
 ---
 
-# ㄱ. Data Type(데이터 타입)
+# ㄱ. Data Type(데이터 타입)JavaScript에서만 적용
 
 - Primitive data type
   - number
@@ -46,7 +46,7 @@ https://poiemaweb.com/js-syntax-basics
   - boolean
   - null
   - undefined
-  - sybol(New in ECMASctipt 6)
+  - symbol(New in ECMASctipt 6)
 
 - Object data type
   - object 
