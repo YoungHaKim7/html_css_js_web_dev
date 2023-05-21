@@ -152,8 +152,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_op
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#reserved_words
 
-- 키워드(keyword)는 수행할 동작을 규정한 것이다. 예를 들어 var 키워드는 새로운 변수를 생성할 것을 지시한다.
-  - These keywords cannot be used as identifiers for variables, functions, classes, etc. anywhere in JavaScript source.
+- 키워드(keyword)는 수행할 동작을 규정한 것이다. 예를 들어 var 키워드는 새로운 변수를 생성할 것을 지시한다. These keywords cannot be used as identifiers for variables, functions, classes, etc. anywhere in JavaScript source.
 
 ```
 
@@ -173,9 +172,8 @@ static , yield (also reserved in generator function bodies)
 ```
 ---
 
-# The following are only reserved when they are found in module code or async function bodies:
+# Keyword 2 _ The following are only reserved when they are found in module code or async function bodies:
 
-- Keyword 2
 
 ```
 await
@@ -228,9 +226,11 @@ function greet() {
 
 greet();
 console.log(a + b); // error
+// ~~~~~~~Result
+// helloWorld
+// ERROR !
 
 ```
-
 ---
 
 # var 문제점 2(var ex)..
