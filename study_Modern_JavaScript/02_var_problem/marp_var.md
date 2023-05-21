@@ -277,9 +277,11 @@ var test;
 
 1. Declare & Allocation
 
-2. Initial value
+2. Value initialization
 
 3. Use
+
+https://en.cppreference.com/w/cpp/language/value_initialization
 
 ---
 
