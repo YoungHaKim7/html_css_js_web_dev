@@ -148,7 +148,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_op
 
 ---
 
-# 키워드(Keyword or )
+# 키워드(Keyword or JavaScript Reserved Words)
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#reserved_words
 
@@ -174,6 +174,7 @@ static , yield (also reserved in generator function bodies)
 
 # Keyword 2 _ The following are only reserved when they are found in module code or async function bodies:
 
+https://www.w3schools.com/js/js_reserved.asp
 
 ```
 await
