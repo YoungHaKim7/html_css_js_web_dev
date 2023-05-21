@@ -20,6 +20,8 @@
 
 - [Publishing your website](https://github.com/YoungHaKim7/html_css_js_web_dev#%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A0%A8-publishing-your-website)
 
+<hr>
+
 # 내가 들은 유료($) 코스
 
 - 초급
@@ -35,6 +37,8 @@
 - 중급
 
   - ES6의 정석(ES6, ES7, ES8) https://nomadcoders.co/es6-once-and-for-all
+
+<hr>
 
 # HTTP response status codes
 
