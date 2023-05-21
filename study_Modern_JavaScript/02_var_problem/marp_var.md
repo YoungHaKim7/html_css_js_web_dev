@@ -275,13 +275,15 @@ var test;
 
 # 코딩에서 변수 사용 순서
 
-1. Declare & Allocation
+1. Initializing a variable
 
-2. Value initialization
+2. Declare & Allocation
 
 3. Use
 
 https://en.cppreference.com/w/cpp/language/value_initialization
+
+https://www.inf.unibz.it/~calvanese/teaching/06-07-ip/lecture-notes/uni02/node18.html
 
 ---
 
