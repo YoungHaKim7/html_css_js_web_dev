@@ -250,7 +250,8 @@ console.log(a); // 3
 ```
 https://www.programiz.com/javascript/let-vs-var
 
-- Result
+- Result (2가 나올걸 기대했는데 3이 나온다. -- 욕나옴xxxxxx)
+
 ```
 hello
 hello
