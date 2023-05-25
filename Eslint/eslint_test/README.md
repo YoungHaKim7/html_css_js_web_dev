@@ -28,8 +28,8 @@ eslint-config-airbnb-base@latest eslint@^7.32.0 || ^8.2.0 eslint-plugin-import@^
 √ Would you like to install them now? · No / Yes
 √ Which package manager do you want to use? · npm
 Installing eslint-config-airbnb-base@latest, eslint@^7.32.0 || ^8.2.0, eslint-plugin-
-import@^2.25.2  
-  
+import@^2.25.2
+
 ```
 
 # Pretter
@@ -40,13 +40,11 @@ import@^2.25.2
 npm i -D prettier
 ```
 
-
 - Prettier 이쁘게 적용된거 파일에 적용됨. 너무 좋다.
 
 ```
 npx prettier --write .\src\index.js
 ```
-
 
 ```
 
@@ -56,5 +54,23 @@ npx prettier --write .\src\index.js
   "eslint-plugin-import": "^2.27.5",
   "prettier": "^2.8.8"
 }
-  
+
+```
+
+- script 만들어서 억지로 돌림 ㅋㅋ
+
+- npm run format:fix .\src\index.js
+
+```
+$ npm run format:fix .\src\index.js
+
+> eslint_test@1.0.0 format:fix
+> npx prettier --write --ignore-path .gitignore . .\src\index.js
+
+.eslintrc.json 62ms
+.prettierrc 36ms
+.prettierrc.js 16ms
+package.json 4ms
+README.md 51ms
+src\index.js 19ms
 ```
