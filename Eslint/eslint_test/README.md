@@ -31,3 +31,30 @@ Installing eslint-config-airbnb-base@latest, eslint@^7.32.0 || ^8.2.0, eslint-pl
 import@^2.25.2  
   
 ```
+
+# Pretter
+
+- 개발자 D에 추가
+
+```
+npm i -D prettier
+```
+
+
+- Prettier 이쁘게 적용된거 파일에 적용됨. 너무 좋다.
+
+```
+npx prettier --write .\src\index.js
+```
+
+
+```
+
+"devDependencies": {
+  "eslint": "^8.41.0",
+  "eslint-config-airbnb-base": "^15.0.0",
+  "eslint-plugin-import": "^2.27.5",
+  "prettier": "^2.8.8"
+}
+  
+```
