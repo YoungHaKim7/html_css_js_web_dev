@@ -26,7 +26,7 @@ class:
 
 ## statement > expression > token 
 
-- expression 은 evaluation은 한다.
+- expression 은  무조건 evaluation 을 한다.
 
 ```
 expression
@@ -64,7 +64,7 @@ https://opentutorials.org/course/1717/9704
 
 # Lisp (모든 함수에서 prefix notation을 사용)
 
-- 해킹언어로 유명한 Lisp Languages 1960년도에 나옴
+- 해킹언어로 유명한 Lisp Language 1960년도에 나옴
 
 ```lisp
 (defun result()
