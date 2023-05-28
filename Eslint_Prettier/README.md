@@ -1,11 +1,29 @@
 # ESlint & Prettier 설치 VSCode에서 저장하면 자동 설정됨 ..최고 👍❤️✈️
 
+- npx eslint --init
+
+  - ```npx eslint --init```
+  
+  ```
+  npx eslint --init
+  ```
+
+- Anb
+
 ```
 $ npm i eslint eslint-config-airbnb-base eslint-plugin-import prettier -D
 ```
 
+
+- google style
 ```
 npm i eslint-config-google -D
+```
+
+- standard
+
+```
+npm i eslint-config-standard eslint-plugin-import eslint-plugin-n eslint-plugin-promise
 ```
 
 # ESLint(공식 설명서DOC)
