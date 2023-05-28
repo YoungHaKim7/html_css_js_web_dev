@@ -1,5 +1,14 @@
 # ESlint & Prettier 설치 VSCode에서 저장하면 자동 설정됨 ..최고 👍❤️✈️
 
+```
+//   "devDependencies"  설치하는 방법
+--save-dev
+
+or
+
+-D
+```
+
 - npx eslint --init
 
   - ```npx eslint --init```
