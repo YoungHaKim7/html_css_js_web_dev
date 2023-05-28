@@ -54,7 +54,7 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hse05105&log
 - infix(중위 표기법infix notation) 연산자가 피연산자 사이에 위치
   - a op b
 
-- postfix(posfix notation) 연산자가 피연산자 뒤에 위치
+- postfix(후위posfix notation) 연산자가 피연산자 뒤에 위치
   - a b op
 
 https://opentutorials.org/course/1717/9704
@@ -348,9 +348,9 @@ https://en.cppreference.com/w/c/language/operator_precedence
 
 ```javascript
 let x = 3;
-// 3 에서 x 로 결합
+// 3 을 x 에 결합
 // <- 이 방향으로 해석해야함 Right to left 
-// 연산자 결합 우항 -> 좌항
+// 연산자 결합 __ 해석 방향(우항 -> 좌항)
 ```
 
 ---
