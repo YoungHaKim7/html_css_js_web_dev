@@ -23,7 +23,7 @@ npm i eslint-config-google -D
 - standard
 
 ```
-npm i eslint-config-standard eslint-plugin-import eslint-plugin-n eslint-plugin-promise
+npm i eslint-config-standard eslint-plugin-import eslint-plugin-n eslint-plugin-promise -D
 ```
 
 # ESLint(공식 설명서DOC)
