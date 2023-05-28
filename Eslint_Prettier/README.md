@@ -1,3 +1,9 @@
+# ESlint & Prettier 설치 VSCode에서 저장하면 자동 설정됨 ..최고 👍❤️✈️
+
+```
+$ npm i eslint eslint-config-airbnb-base eslint-plugin-import prettier -D
+```
+
 # ESLint(공식 설명서DOC)
 
 https://eslint.org/docs/latest/use/command-line-interface
