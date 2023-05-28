@@ -4,6 +4,10 @@
 $ npm i eslint eslint-config-airbnb-base eslint-plugin-import prettier -D
 ```
 
+```
+npm i eslint-config-google -D
+```
+
 # ESLint(공식 설명서DOC)
 
 https://eslint.org/docs/latest/use/command-line-interface
