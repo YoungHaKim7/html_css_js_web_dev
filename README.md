@@ -348,6 +348,12 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
   
 # CSS 작업시 필수 사이트 모음<img align="left" alt="css" width="26px" src="https://user-images.githubusercontent.com/67513038/229954543-d69fef0e-b636-4384-a069-3c98ec282b9c.png" /><a href="https://github.com/YoungHaKim7/html_css_js_web_dev#contents">[🔝]</a>
 
+- apple font불러와서 편하다.
+
+```
+font-family: -apple-system;
+```
+
 - CSS Tools: Reset CSS https://meyerweb.com/eric/tools/css/reset/
 
 # Audio CSS
