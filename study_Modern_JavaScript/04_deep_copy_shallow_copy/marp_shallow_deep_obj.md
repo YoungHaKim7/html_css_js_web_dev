@@ -189,6 +189,59 @@ let counter = {
 https://developer.mozilla.org/en-US/docs/Glossary/Property/JavaScript
 
 ---
+# Property(Key, Value)
+
+```javascript
+let person = {
+  // Property Key = name,   Property Value: "Lee"
+  name: "Lee",
+  age: 20,
+  // Property key = age,   Property Value : 20
+}
+```
+
+- Property Key : 빈 문자열을 포함하는 모든 문자열 또는 심벌 값
+- Property value : JavaScript에서 사용 할 수 있는 모든 값
+
+---
+
+# Propery Accessors
+
+1. dot notation(마침표(.) 접근 연산자) 많이 씀
+2. bracket notation
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_accessors
+
+---
+
+# Propery Accessors
+
+1. dot notation(마침표(.) 접근 연산자) 많이 씀
+```javascript
+const person1 = {};
+person1['firstname'] = 'Mario';
+person1['lastname'] = 'Rossi';
+
+console.log(person1.firstname);
+// Expected output: "Mario"
+
+const person2 = {
+  firstname: 'John',
+  lastname: 'Doe'
+};
+
+console.log(person2['lastname']);
+// Expected output: "Doe"
+
+```
+
+---
+
+# JavaScript 처음과 끝은 오브젝트Object
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+---
 
 # Object(obj)
 
