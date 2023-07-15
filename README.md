@@ -309,6 +309,9 @@ https://github.com/tipjs/javascript-style-guide
 
 원문:https://github.com/airbnb/javascript
 
+- JavaScript: Understanding the Weird Parts - The First 3.5 Hours
+  - https://youtu.be/Bv_5Zv5c-Ts
+
 # Angle bracket (<) without triggering html code [duplicate]
 
 https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-html-code
