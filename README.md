@@ -1,3 +1,9 @@
+# Learn Svelte – Full Course for Beginners
+
+https://youtu.be/UGBJHYpHPvA?si=qiYKVn9ztESf6NV5
+
+<hr>
+
 # Contents
 
 - [VScode_Emmet](https://github.com/YoungHaKim7/html_css_js_web_dev#emmet-in-visual-studio-code)
