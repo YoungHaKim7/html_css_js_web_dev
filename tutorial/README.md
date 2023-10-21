@@ -28,3 +28,7 @@ https://youtu.be/G3e-cpL7ofc
 https://www.youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6
 
 <hr>
+
+# Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App | freeCodeCamp.org
+
+https://youtu.be/H0vhkoXljq0?si=3om9kJr1wO8dTErz
