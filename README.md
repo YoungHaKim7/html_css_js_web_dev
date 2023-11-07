@@ -46,6 +46,11 @@ https://youtu.be/UGBJHYpHPvA?si=qiYKVn9ztESf6NV5
 
 <hr>
 
+# 당신이 모르는 자바스크립트의 메모리 누수의 비밀
+- 크롬 개발자도구로 하는 디버깅과 해결책을 찾아서!
+  - https://ui.toast.com/posts/ko_20210611
+
+
 # ESLint
 
 - 연구 중
